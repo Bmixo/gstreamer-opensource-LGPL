@@ -1,6 +1,6 @@
 opensource according to GStreamer original license
 
-Suggest:Do not use this modified source code repo,original and official source code repo address https://gitlab.freedesktop.org/gstreamer/gstreamer.git
+Suggest:Do not use this modified source code repo,original and official source code repo address is https://gitlab.freedesktop.org/gstreamer/gstreamer.git
 
 LICENSE is the same as the original source code (https://gitlab.freedesktop.org/gstreamer/gstreamer.git)
 
