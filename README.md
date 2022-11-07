@@ -1,6 +1,6 @@
 opensource according to GStreamer original license
 
-Suggest:Do not use this my modified source code,original and official source address https://gitlab.freedesktop.org/gstreamer/gstreamer.git
+Suggest:Do not use my modified source code,original and official source address https://gitlab.freedesktop.org/gstreamer/gstreamer.git
 
 # GStreamer
 
