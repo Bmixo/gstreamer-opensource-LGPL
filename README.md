@@ -1,3 +1,4 @@
+opensource according to GStreamer original license
 # GStreamer
 
 This is GStreamer, a framework for streaming media.
