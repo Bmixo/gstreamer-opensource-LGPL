@@ -1,4 +1,7 @@
 opensource according to GStreamer original license
+
+Suggest:Do not use this my modified source code,original and official source address https://gitlab.freedesktop.org/gstreamer/gstreamer.git
+
 # GStreamer
 
 This is GStreamer, a framework for streaming media.
